@@ -1,4 +1,4 @@
-# Phishing URL Detection 
+# Malicious URL Detection 
 
 ## Table of Content
   * [Introduction](#introduction)
