@@ -3,14 +3,16 @@
 ## Table of Content
   * [Introduction](#introduction)
   * [Installation](#installation)
+  * [Deployment](#Deployment)
   * [Directory Tree](#directory-tree)
   * [Result](#result)
   * [Conclusion](#conclusion)
+  
 
 
 ## Introduction
 
-The Internet has become an indispensable part of our life, However, It also has provided opportunities to anonymously perform malicious activities like Phishing. Phishers try to deceive their victims by social engineering or creating mockup websites to steal information such as account ID, username, password from individuals and organizations. Although many methods have been proposed to detect phishing websites, Phishers have evolved their methods to escape from these detection methods. One of the most successful methods for detecting these malicious activities is Machine Learning. This is because most Phishing attacks have some common characteristics which can be identified by machine learning methods. To see project click [here]("/").
+The Internet has become an indispensable part of our life, However, It also has provided opportunities to anonymously perform malicious activities like Phishing. Phishers try to deceive their victims by social engineering or creating mockup websites to steal information such as account ID, username, password from individuals and organizations. Although many methods have been proposed to detect phishing websites, Phishers have evolved their methods to escape from these detection methods. One of the most successful methods for detecting these malicious activities is Machine Learning. This is because most Phishing attacks have some common characteristics which can be identified by machine learning methods. 
 
 
 ## Installation
@@ -18,7 +20,11 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 ```bash
 pip install -r requirements.txt
 ```
-
+## Deployment
+To run this project simply Enter the following command
+```bash
+python app.py
+```
 ## Directory Tree 
 ```
 ├── pickle
